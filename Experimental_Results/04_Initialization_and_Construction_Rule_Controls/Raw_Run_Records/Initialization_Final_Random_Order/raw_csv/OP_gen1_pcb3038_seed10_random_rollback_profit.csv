@@ -1,0 +1,3 @@
+record_type,problem,set,instance,n,variant,run_id,seed,objective,distance,profit,init_best,init_mean,init_diversity,feasible_count,population_size,time_to_best,iterations_completed,stop_reason,time_seconds
+initial,OP,gen1,pcb3038-gen1-50,3038,random_rollback_profit,10,10,1060,,,1060,993.979,0.883556,141,141,,,initial_population,19.7
+final,OP,gen1,pcb3038-gen1-50,3038,random_rollback_profit,10,10,1706,68846,1706,,,,,7860.7,500001,iteration,8032.71

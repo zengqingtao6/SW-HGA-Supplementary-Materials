@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use these experimental results, please cite the associated manuscript and the archived repository release."
+title: "Experimental results for SW-HGA: A Hybrid Genetic Algorithm for Traveling Salesman Problems with Profits"
+type: dataset
+version: 1.0.0
+date-released: 2026-10-08
+authors:
+  - family-names: Zeng
+    given-names: Qingtao
+    orcid: "https://orcid.org/0009-0008-0778-8706"
+    affiliation: "Fujian Agriculture and Forestry University"
+  - family-names: Liu
+    given-names: Qingwei
+    orcid: "https://orcid.org/0009-0006-2598-2233"
+    affiliation: "Fujian Agriculture and Forestry University"
+  - family-names: Zheng
+    given-names: Xiansong
+    orcid: "https://orcid.org/0009-0002-5140-127X"
+    affiliation: "Fujian Agriculture and Forestry University"
+  - family-names: Zhong
+    given-names: Yiwen
+    affiliation: "Fujian Agriculture and Forestry University"
+  - family-names: Lin
+    given-names: Juan
+    orcid: "https://orcid.org/0000-0002-4279-6081"
+    affiliation: "Fujian Agriculture and Forestry University"
+abstract: "Run-level records, component-study results, control experiments, diagnostic analyses, sensitivity results, and integrity information supporting the SW-HGA manuscript."
+keywords:
+  - hybrid genetic algorithm
+  - orienteering problem
+  - prize-collecting traveling salesman problem
+  - traveling salesman problems with profits
+  - computational experiments

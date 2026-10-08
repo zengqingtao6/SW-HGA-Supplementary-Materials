@@ -1,0 +1,3 @@
+record_type,problem,set,instance,n,variant,run_id,seed,objective,distance,profit,init_best,init_mean,init_diversity,feasible_count,population_size,time_to_best,iterations_completed,stop_reason,time_seconds
+initial,PCTSP,set_1,pcb3038-set1-50,3038,mixed_rollback_ratio,2,2,72408,,,72408,76354.9,0.591165,199,199,,,initial_population,332.244
+final,PCTSP,set_1,pcb3038-set1-50,3038,mixed_rollback_ratio,2,2,61799,61799,1518,,,,,12902.5,211887,time,15517.5

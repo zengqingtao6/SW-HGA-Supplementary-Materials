@@ -1,0 +1,11 @@
+Starting searching
+InitMode=1 AddMode=2 ExperimentMode=1 RunId=4 Variant=random_initial
+${EXPERIMENT_ROOT}\OPcode pro\instances\gen4\fnl4461-gen4-30.oplib
+---- Start the search----
+The best fit is    37811
+----The initial solution is finished, time spends: 19.194
+----------Write Solution With Value  37811 In: ${EXPERIMENT_ROOT}\experiments_final\c1_initial\random_initial\solutions\OP\OP_gen4_fnl4461_seed4_random_initial.txt
+----Initialization-only experiment finished----
+COMMAND:
+${EXPERIMENT_ROOT}\OPcode pro\geaxOP.exe ${EXPERIMENT_ROOT}\OPcode pro\instances\gen4\fnl4461-gen4-30.oplib ${EXPERIMENT_ROOT}\experiments_final\c1_initial\random_initial\solutions\OP\OP_gen4_fnl4461_seed4_random_initial.txt 15517 500000 4 1 2 1 ${EXPERIMENT_ROOT}\experiments_final\c1_initial\random_initial\raw_csv\OP_gen4_fnl4461_seed4_random_initial.csv 4 random_initial
+

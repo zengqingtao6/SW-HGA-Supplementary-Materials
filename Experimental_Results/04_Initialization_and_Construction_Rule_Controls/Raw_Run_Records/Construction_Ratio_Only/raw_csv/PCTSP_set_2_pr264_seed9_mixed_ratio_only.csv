@@ -1,0 +1,3 @@
+record_type,problem,set,instance,n,variant,run_id,seed,objective,distance,profit,init_best,init_mean,init_diversity,feasible_count,population_size,time_to_best,iterations_completed,stop_reason,time_seconds
+initial,PCTSP,set_2,pr264-set2-50,264,mixed_ratio_only,9,9,31143,,,31143,35393.9,0.606593,197,197,,,initial_population,0.778
+final,PCTSP,set_2,pr264-set2-50,264,mixed_ratio_only,9,9,22560,22560,6650,,,,,330.201,500001,iteration,697.455

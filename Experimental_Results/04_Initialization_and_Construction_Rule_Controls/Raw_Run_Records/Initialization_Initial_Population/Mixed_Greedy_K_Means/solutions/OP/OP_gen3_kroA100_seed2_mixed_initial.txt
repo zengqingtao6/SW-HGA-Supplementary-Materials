@@ -1,0 +1,72 @@
+The profit 
+3184
+The time comsuming is 
+0.057
+The time meet the LB is 
+0.007
+The time meet the best is 
+0.015
+Does reach the optimal soltuion 
+0
+
+
+
+NAME : kroA100
+TYPE : OP
+DIMENSION : 100
+COST_LIMIT : 10641
+ROUTE_NODES : 48
+ROUTE_SCORE : 3184
+ROUTE_COST : 10598
+NODE_SEQUENCE_SECTION
+1
+67
+69
+64
+40
+54
+2
+44
+50
+82
+95
+13
+76
+33
+37
+5
+52
+78
+96
+39
+30
+48
+100
+41
+71
+14
+3
+43
+46
+29
+34
+83
+55
+12
+27
+35
+86
+20
+57
+7
+9
+87
+51
+25
+81
+61
+58
+28
+93
+1
+EOF

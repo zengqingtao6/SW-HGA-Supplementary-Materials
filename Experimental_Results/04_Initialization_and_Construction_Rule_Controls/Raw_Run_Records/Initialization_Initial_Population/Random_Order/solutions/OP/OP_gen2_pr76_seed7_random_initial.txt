@@ -1,0 +1,64 @@
+The profit 
+2098
+The time comsuming is 
+0.044
+The time meet the LB is 
+0.004
+The time meet the best is 
+0.024
+Does reach the optimal soltuion 
+0
+
+
+
+NAME : pr76
+TYPE : OP
+DIMENSION : 76
+COST_LIMIT : 54080
+ROUTE_NODES : 40
+ROUTE_SCORE : 2098
+ROUTE_COST : 53838
+NODE_SEQUENCE_SECTION
+1
+76
+75
+2
+3
+4
+6
+5
+10
+11
+17
+18
+37
+36
+38
+39
+34
+40
+41
+60
+61
+62
+58
+57
+65
+66
+51
+52
+53
+54
+42
+43
+28
+29
+30
+31
+19
+25
+21
+22
+23
+1
+EOF

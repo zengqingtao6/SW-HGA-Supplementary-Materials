@@ -1,0 +1,11 @@
+Starting searching
+InitMode=0 AddMode=2 ExperimentMode=1 RunId=5 Variant=mixed_initial
+${EXPERIMENT_ROOT}\OPcode pro\instances\gen3\kroA100-gen3-50.oplib
+---- Start the search----
+The best fit is    3184
+----The initial solution is finished, time spends: 0.039
+----------Write Solution With Value  3184 In: ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\solutions\OP\OP_gen3_kroA100_seed5_mixed_initial.txt
+----Initialization-only experiment finished----
+COMMAND:
+${EXPERIMENT_ROOT}\OPcode pro\geaxOP.exe ${EXPERIMENT_ROOT}\OPcode pro\instances\gen3\kroA100-gen3-50.oplib ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\solutions\OP\OP_gen3_kroA100_seed5_mixed_initial.txt 15517 500000 5 0 2 1 ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\raw_csv\OP_gen3_kroA100_seed5_mixed_initial.csv 5 mixed_initial
+

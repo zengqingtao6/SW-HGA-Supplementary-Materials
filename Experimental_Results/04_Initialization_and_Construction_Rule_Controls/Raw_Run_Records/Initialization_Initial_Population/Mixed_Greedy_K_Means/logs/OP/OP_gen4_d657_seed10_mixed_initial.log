@@ -1,0 +1,11 @@
+Starting searching
+InitMode=0 AddMode=2 ExperimentMode=1 RunId=10 Variant=mixed_initial
+${EXPERIMENT_ROOT}\OPcode pro\instances\gen4\d657-gen4-90.oplib
+---- Start the search----
+The best fit is    29858
+----The initial solution is finished, time spends: 2.14
+----------Write Solution With Value  29858 In: ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\solutions\OP\OP_gen4_d657_seed10_mixed_initial.txt
+----Initialization-only experiment finished----
+COMMAND:
+${EXPERIMENT_ROOT}\OPcode pro\geaxOP.exe ${EXPERIMENT_ROOT}\OPcode pro\instances\gen4\d657-gen4-90.oplib ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\solutions\OP\OP_gen4_d657_seed10_mixed_initial.txt 15517 500000 10 0 2 1 ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\raw_csv\OP_gen4_d657_seed10_mixed_initial.csv 10 mixed_initial
+

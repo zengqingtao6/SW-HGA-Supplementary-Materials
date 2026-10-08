@@ -1,0 +1,11 @@
+Starting searching
+InitMode=1 AddMode=2 ExperimentMode=1 RunId=4 Variant=random_initial
+${EXPERIMENT_ROOT}\OPcode pro\instances\gen1\eil51-gen1-50.oplib
+---- Start the search----
+The best fit is    26
+----The initial solution is finished, time spends: 0.008
+----------Write Solution With Value  26 In: ${EXPERIMENT_ROOT}\experiments_final\c1_initial\random_initial\solutions\OP\OP_gen1_eil51_seed4_random_initial.txt
+----Initialization-only experiment finished----
+COMMAND:
+${EXPERIMENT_ROOT}\OPcode pro\geaxOP.exe ${EXPERIMENT_ROOT}\OPcode pro\instances\gen1\eil51-gen1-50.oplib ${EXPERIMENT_ROOT}\experiments_final\c1_initial\random_initial\solutions\OP\OP_gen1_eil51_seed4_random_initial.txt 15517 500000 4 1 2 1 ${EXPERIMENT_ROOT}\experiments_final\c1_initial\random_initial\raw_csv\OP_gen1_eil51_seed4_random_initial.csv 4 random_initial
+

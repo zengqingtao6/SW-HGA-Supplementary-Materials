@@ -1,0 +1,2 @@
+record_type,problem,set,instance,n,variant,run_id,seed,objective,distance,profit,init_best,init_mean,init_diversity,feasible_count,population_size,time_to_best,iterations_completed,stop_reason,time_seconds
+initial,OP,gen1,a280-gen1-50,280,mixed_initial,9,9,132,,,132,122.132,0.629011,121,121,,,initial_population,0.161

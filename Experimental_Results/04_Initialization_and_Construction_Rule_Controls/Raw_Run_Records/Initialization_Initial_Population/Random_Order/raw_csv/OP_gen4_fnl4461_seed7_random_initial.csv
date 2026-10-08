@@ -1,0 +1,2 @@
+record_type,problem,set,instance,n,variant,run_id,seed,objective,distance,profit,init_best,init_mean,init_diversity,feasible_count,population_size,time_to_best,iterations_completed,stop_reason,time_seconds
+initial,OP,gen4,fnl4461-gen4-30,4461,random_initial,7,7,37838,,,37838,33889,0.972827,100,100,,,initial_population,19.853

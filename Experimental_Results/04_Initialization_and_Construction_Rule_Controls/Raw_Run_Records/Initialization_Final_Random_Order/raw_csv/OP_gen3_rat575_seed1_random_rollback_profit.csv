@@ -1,0 +1,3 @@
+record_type,problem,set,instance,n,variant,run_id,seed,objective,distance,profit,init_best,init_mean,init_diversity,feasible_count,population_size,time_to_best,iterations_completed,stop_reason,time_seconds
+initial,OP,gen3,rat575-gen3-50,575,random_rollback_profit,1,1,12634,,,12634,11231.7,0.874983,143,143,,,initial_population,0.437
+final,OP,gen3,rat575-gen3-50,575,random_rollback_profit,1,1,20053,3387,20053,,,,,520.14,500001,iteration,662.876

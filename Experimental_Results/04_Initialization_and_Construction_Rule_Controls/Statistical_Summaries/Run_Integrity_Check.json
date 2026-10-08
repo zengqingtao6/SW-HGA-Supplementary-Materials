@@ -1,0 +1,216 @@
+{
+  "c1_initial": {
+    "phase": "c1_initial",
+    "rows": 560,
+    "seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "duplicates": 0,
+    "variants": [
+      "mixed_initial",
+      "random_initial"
+    ],
+    "initial": {
+      "OP": {
+        "rows": 320,
+        "instances": 16,
+        "runs_per_instance_variant": [
+          10
+        ]
+      },
+      "PCTSP": {
+        "rows": 240,
+        "instances": 12,
+        "runs_per_instance_variant": [
+          10
+        ]
+      }
+    }
+  },
+  "c1_final_random": {
+    "phase": "c1_final_random",
+    "rows": 560,
+    "seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "duplicates": 0,
+    "variants": [
+      "random_rollback_profit"
+    ],
+    "final": {
+      "OP": {
+        "rows": 160,
+        "instances": 16,
+        "runs_per_instance_variant": [
+          10
+        ]
+      },
+      "PCTSP": {
+        "rows": 120,
+        "instances": 12,
+        "runs_per_instance_variant": [
+          10
+        ]
+      }
+    },
+    "initial": {
+      "OP": {
+        "rows": 160,
+        "instances": 16,
+        "runs_per_instance_variant": [
+          10
+        ]
+      },
+      "PCTSP": {
+        "rows": 120,
+        "instances": 12,
+        "runs_per_instance_variant": [
+          10
+        ]
+      }
+    },
+    "final_missing_objective": 0,
+    "final_stop_reasons": {
+      "iteration": 266,
+      "time": 14
+    },
+    "final_iteration_min": 455637.0,
+    "final_iteration_max": 500001.0
+  },
+  "c2_ratio_only": {
+    "phase": "c2_ratio_only",
+    "rows": 560,
+    "seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "duplicates": 0,
+    "variants": [
+      "mixed_ratio_only"
+    ],
+    "final": {
+      "OP": {
+        "rows": 160,
+        "instances": 16,
+        "runs_per_instance_variant": [
+          10
+        ]
+      },
+      "PCTSP": {
+        "rows": 120,
+        "instances": 12,
+        "runs_per_instance_variant": [
+          10
+        ]
+      }
+    },
+    "initial": {
+      "OP": {
+        "rows": 160,
+        "instances": 16,
+        "runs_per_instance_variant": [
+          10
+        ]
+      },
+      "PCTSP": {
+        "rows": 120,
+        "instances": 12,
+        "runs_per_instance_variant": [
+          10
+        ]
+      }
+    },
+    "final_missing_objective": 0,
+    "final_stop_reasons": {
+      "iteration": 230,
+      "time": 50
+    },
+    "final_iteration_min": 205866.0,
+    "final_iteration_max": 500001.0
+  },
+  "c2_rollback_ratio": {
+    "phase": "c2_rollback_ratio",
+    "rows": 560,
+    "seeds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "duplicates": 0,
+    "variants": [
+      "mixed_rollback_ratio"
+    ],
+    "final": {
+      "OP": {
+        "rows": 160,
+        "instances": 16,
+        "runs_per_instance_variant": [
+          10
+        ]
+      },
+      "PCTSP": {
+        "rows": 120,
+        "instances": 12,
+        "runs_per_instance_variant": [
+          10
+        ]
+      }
+    },
+    "initial": {
+      "OP": {
+        "rows": 160,
+        "instances": 16,
+        "runs_per_instance_variant": [
+          10
+        ]
+      },
+      "PCTSP": {
+        "rows": 120,
+        "instances": 12,
+        "runs_per_instance_variant": [
+          10
+        ]
+      }
+    },
+    "final_missing_objective": 0,
+    "final_stop_reasons": {
+      "iteration": 230,
+      "time": 50
+    },
+    "final_iteration_min": 201924.0,
+    "final_iteration_max": 500001.0
+  }
+}

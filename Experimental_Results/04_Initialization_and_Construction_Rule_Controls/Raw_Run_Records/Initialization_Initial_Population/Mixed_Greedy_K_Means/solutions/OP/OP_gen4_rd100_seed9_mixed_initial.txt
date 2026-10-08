@@ -1,0 +1,88 @@
+The profit 
+3445
+The time comsuming is 
+0.063
+The time meet the LB is 
+0.007
+The time meet the best is 
+0.011
+Does reach the optimal soltuion 
+0
+
+
+
+NAME : rd100
+TYPE : OP
+DIMENSION : 100
+COST_LIMIT : 4747
+ROUTE_NODES : 64
+ROUTE_SCORE : 3445
+ROUTE_COST : 4727
+NODE_SEQUENCE_SECTION
+1
+60
+69
+8
+71
+68
+83
+51
+90
+65
+91
+64
+36
+52
+57
+47
+99
+53
+79
+6
+94
+98
+66
+76
+59
+95
+77
+93
+28
+37
+19
+56
+46
+50
+73
+54
+38
+70
+72
+17
+92
+27
+33
+78
+20
+74
+26
+32
+4
+12
+14
+85
+82
+75
+21
+49
+13
+67
+97
+86
+63
+15
+87
+62
+18
+1
+EOF

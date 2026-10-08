@@ -1,0 +1,12 @@
+Starting searching
+InitMode=1 AddMode=2 ExperimentMode=1 RunId=5 Variant=random_initial
+${EXPERIMENT_ROOT}\PCTSPcode pro\instances\set_3\att532-set3-50.txt
+---- Start the search----
+The best initial fit is-------14378
+----The initial solution is finished, time spends:---0.908
+----------Write Solution With Value  11916 In: ${EXPERIMENT_ROOT}\experiments_final\c1_initial\random_initial\solutions\PCTSP\PCTSP_set_3_att532_seed5_random_initial.txt
+The best fit is----14378
+----Initialization-only experiment finished----
+COMMAND:
+${EXPERIMENT_ROOT}\PCTSPcode pro\geaxPCTSP.exe ${EXPERIMENT_ROOT}\PCTSPcode pro\instances\set_3\att532-set3-50.txt ${EXPERIMENT_ROOT}\experiments_final\c1_initial\random_initial\solutions\PCTSP\PCTSP_set_3_att532_seed5_random_initial.txt 15517 500000 5 1 2 1 ${EXPERIMENT_ROOT}\experiments_final\c1_initial\random_initial\raw_csv\PCTSP_set_3_att532_seed5_random_initial.csv 5 random_initial
+

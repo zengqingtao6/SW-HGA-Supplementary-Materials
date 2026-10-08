@@ -1,0 +1,2 @@
+instance,seed,problem,total_calls,rollback_triggers,trigger_rate,phase2_continuations,continue_rate,changed_first_customer,changed_customer_rate,improved,tied,worsened,improvement_rate,mean_phase2_insertions,mean_jaccard
+fnl4461,11,OP,557755,502449,0.900842,502449,1,107312,0.213578,69331,433118,0,0.137986,1.0071,0.00030559

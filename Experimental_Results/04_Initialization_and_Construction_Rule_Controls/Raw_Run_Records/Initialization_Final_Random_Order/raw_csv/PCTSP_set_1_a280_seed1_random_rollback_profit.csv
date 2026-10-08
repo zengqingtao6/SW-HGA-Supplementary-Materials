@@ -1,0 +1,3 @@
+record_type,problem,set,instance,n,variant,run_id,seed,objective,distance,profit,init_best,init_mean,init_diversity,feasible_count,population_size,time_to_best,iterations_completed,stop_reason,time_seconds
+initial,PCTSP,set_1,a280-set1-50,280,random_rollback_profit,1,1,1486,,,1486,1609.73,0.741307,124,124,,,initial_population,0.233
+final,PCTSP,set_1,a280-set1-50,280,random_rollback_profit,1,1,1259,1259,139,,,,,276.234,500001,iteration,493.955

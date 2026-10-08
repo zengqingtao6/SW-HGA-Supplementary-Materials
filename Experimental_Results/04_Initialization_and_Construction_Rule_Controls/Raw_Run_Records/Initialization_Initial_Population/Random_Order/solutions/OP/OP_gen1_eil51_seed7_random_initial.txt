@@ -1,0 +1,50 @@
+The profit 
+27
+The time comsuming is 
+0.008
+The time meet the LB is 
+0.003
+The time meet the best is 
+0.004
+Does reach the optimal soltuion 
+0
+
+
+
+NAME : eil51
+TYPE : OP
+DIMENSION : 51
+COST_LIMIT : 213
+ROUTE_NODES : 26
+ROUTE_SCORE : 27
+ROUTE_COST : 213
+NODE_SEQUENCE_SECTION
+1
+22
+3
+28
+31
+26
+8
+48
+23
+6
+51
+46
+12
+17
+37
+15
+45
+33
+10
+30
+34
+21
+50
+9
+38
+11
+32
+1
+EOF

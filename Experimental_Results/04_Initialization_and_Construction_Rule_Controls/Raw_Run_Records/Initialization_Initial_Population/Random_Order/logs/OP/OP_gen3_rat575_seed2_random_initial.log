@@ -1,0 +1,11 @@
+Starting searching
+InitMode=1 AddMode=2 ExperimentMode=1 RunId=2 Variant=random_initial
+${EXPERIMENT_ROOT}\OPcode pro\instances\gen3\rat575-gen3-50.oplib
+---- Start the search----
+The best fit is    13156
+----The initial solution is finished, time spends: 0.456
+----------Write Solution With Value  13156 In: ${EXPERIMENT_ROOT}\experiments_final\c1_initial\random_initial\solutions\OP\OP_gen3_rat575_seed2_random_initial.txt
+----Initialization-only experiment finished----
+COMMAND:
+${EXPERIMENT_ROOT}\OPcode pro\geaxOP.exe ${EXPERIMENT_ROOT}\OPcode pro\instances\gen3\rat575-gen3-50.oplib ${EXPERIMENT_ROOT}\experiments_final\c1_initial\random_initial\solutions\OP\OP_gen3_rat575_seed2_random_initial.txt 15517 500000 2 1 2 1 ${EXPERIMENT_ROOT}\experiments_final\c1_initial\random_initial\raw_csv\OP_gen3_rat575_seed2_random_initial.csv 2 random_initial
+

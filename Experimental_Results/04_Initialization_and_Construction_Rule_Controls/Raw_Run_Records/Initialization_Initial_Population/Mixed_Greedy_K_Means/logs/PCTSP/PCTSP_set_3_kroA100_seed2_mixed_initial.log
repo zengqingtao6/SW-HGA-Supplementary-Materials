@@ -1,0 +1,12 @@
+Starting searching
+InitMode=0 AddMode=2 ExperimentMode=1 RunId=2 Variant=mixed_initial
+${EXPERIMENT_ROOT}\PCTSPcode pro\instances\set_3\kroA100-set3-50.txt
+---- Start the search----
+The best initial fit is-------9089
+----The initial solution is finished, time spends:---0.086
+----------Write Solution With Value  2521 In: ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\solutions\PCTSP\PCTSP_set_3_kroA100_seed2_mixed_initial.txt
+The best fit is----9089
+----Initialization-only experiment finished----
+COMMAND:
+${EXPERIMENT_ROOT}\PCTSPcode pro\geaxPCTSP.exe ${EXPERIMENT_ROOT}\PCTSPcode pro\instances\set_3\kroA100-set3-50.txt ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\solutions\PCTSP\PCTSP_set_3_kroA100_seed2_mixed_initial.txt 15517 500000 2 0 2 1 ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\raw_csv\PCTSP_set_3_kroA100_seed2_mixed_initial.csv 2 mixed_initial
+

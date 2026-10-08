@@ -1,0 +1,71 @@
+The distance 
+24292
+The time comsuming is 
+0.057
+The time meet the LB is 
+1e+08
+The time meet the best is 
+0.008
+Does reach the optimal soltuion 
+0
+
+
+
+NAME : gr96
+TYPE : PCTSP
+DIMENSION : 96
+Prize_COLLECTING : 47
+ROUTE_NODES : 47
+ROUTE_SCORE : 47
+TRAVELING_COST : 24292
+NODE_SEQUENCE_SECTION
+1
+30
+32
+36
+37
+38
+35
+34
+44
+41
+42
+43
+49
+50
+46
+47
+48
+53
+55
+56
+57
+58
+60
+61
+62
+63
+64
+67
+68
+66
+28
+26
+22
+21
+19
+18
+20
+17
+16
+15
+14
+13
+10
+9
+8
+4
+2
+29
+1
+EOF

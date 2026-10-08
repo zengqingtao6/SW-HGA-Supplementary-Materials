@@ -1,0 +1,2 @@
+instance,seed,problem,total_calls,rollback_triggers,trigger_rate,phase2_continuations,continue_rate,changed_first_customer,changed_customer_rate,phase2_feasible,phase2_infeasible,phase2_feasible_rate,both_feasible,improved,tied,worsened,improvement_rate,mean_phase2_insertions,mean_jaccard
+pr76,9,PCTSP,580061,169155,0.291616,169155,1,163964,0.969312,169155,0,1,169155,0,5191,163964,0,1.00012,0.0584218

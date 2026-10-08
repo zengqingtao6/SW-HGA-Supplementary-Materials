@@ -1,0 +1,56 @@
+The distance 
+43721
+The time comsuming is 
+0.043
+The time meet the LB is 
+1e+08
+The time meet the best is 
+0.027
+Does reach the optimal soltuion 
+0
+
+
+
+NAME : pr76
+TYPE : PCTSP
+DIMENSION : 76
+Prize_COLLECTING : 1887
+ROUTE_NODES : 32
+ROUTE_SCORE : 1890
+TRAVELING_COST : 43721
+NODE_SEQUENCE_SECTION
+1
+2
+3
+6
+9
+12
+15
+11
+10
+5
+20
+19
+31
+29
+32
+35
+38
+39
+40
+41
+60
+59
+58
+55
+53
+54
+42
+43
+27
+26
+25
+21
+22
+1
+EOF

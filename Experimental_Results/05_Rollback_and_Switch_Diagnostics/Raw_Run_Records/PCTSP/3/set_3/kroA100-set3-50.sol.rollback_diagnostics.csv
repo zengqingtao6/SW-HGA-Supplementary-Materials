@@ -1,0 +1,2 @@
+instance,seed,problem,total_calls,rollback_triggers,trigger_rate,phase2_continuations,continue_rate,changed_first_customer,changed_customer_rate,phase2_feasible,phase2_infeasible,phase2_feasible_rate,both_feasible,improved,tied,worsened,improvement_rate,mean_phase2_insertions,mean_jaccard
+kroA100,3,PCTSP,618991,151051,0.244028,151051,1,105774,0.700254,151051,0,1,151051,0,45291,105760,0,1.00025,0.0334584

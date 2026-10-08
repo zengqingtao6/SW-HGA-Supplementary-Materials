@@ -1,0 +1,11 @@
+Starting searching
+InitMode=0 AddMode=2 ExperimentMode=1 RunId=2 Variant=mixed_initial
+${EXPERIMENT_ROOT}\OPcode pro\instances\gen1\pcb3038-gen1-50.oplib
+---- Start the search----
+The best fit is    1451
+----The initial solution is finished, time spends: 28.773
+----------Write Solution With Value  1451 In: ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\solutions\OP\OP_gen1_pcb3038_seed2_mixed_initial.txt
+----Initialization-only experiment finished----
+COMMAND:
+${EXPERIMENT_ROOT}\OPcode pro\geaxOP.exe ${EXPERIMENT_ROOT}\OPcode pro\instances\gen1\pcb3038-gen1-50.oplib ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\solutions\OP\OP_gen1_pcb3038_seed2_mixed_initial.txt 15517 500000 2 0 2 1 ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\raw_csv\OP_gen1_pcb3038_seed2_mixed_initial.csv 2 mixed_initial
+

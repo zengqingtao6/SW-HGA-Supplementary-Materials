@@ -1,0 +1,197 @@
+﻿problem,set,instance,configuration,runs,best,mean,std_dev
+OP,I,a280,Initialization only,20,147.0,146.95,0.22360679774997896
+OP,I,a280,Rollback-and-switch only,20,147.0,145.95,0.5104177855340404
+OP,I,a280,Route improvement only,20,147.0,146.15,0.36634754853252327
+OP,I,a280,Initialization + rollback-and-switch,20,147.0,146.8,0.41039134083406165
+OP,I,a280,Initialization + route improvement,20,147.0,146.85,0.36634754853252327
+OP,I,a280,Rollback-and-switch + route improvement,20,147.0,146.1,0.30779350562554625
+OP,I,a280,Full SW-HGA,20,147.0,146.7,0.47016234598162726
+OP,I,dsj1000,Initialization only,20,644.0,643.65,0.4893604849295929
+OP,I,dsj1000,Rollback-and-switch only,20,653.0,649.5,1.7621756887140216
+OP,I,dsj1000,Route improvement only,20,654.0,650.95,2.0124611797498106
+OP,I,dsj1000,Initialization + rollback-and-switch,20,644.0,643.65,0.4893604849295929
+OP,I,dsj1000,Initialization + route improvement,20,644.0,644.0,0.0
+OP,I,dsj1000,Rollback-and-switch + route improvement,20,654.0,650.05,1.3168942730211068
+OP,I,dsj1000,Full SW-HGA,20,644.0,644.0,0.0
+OP,I,eil51,Initialization only,20,29.0,29.0,0.0
+OP,I,eil51,Rollback-and-switch only,20,29.0,29.0,0.0
+OP,I,eil51,Route improvement only,20,29.0,29.0,0.0
+OP,I,eil51,Initialization + rollback-and-switch,20,29.0,29.0,0.0
+OP,I,eil51,Initialization + route improvement,20,29.0,29.0,0.0
+OP,I,eil51,Rollback-and-switch + route improvement,20,29.0,29.0,0.0
+OP,I,eil51,Full SW-HGA,20,29.0,29.0,0.0
+OP,I,pcb3038,Initialization only,20,1704.0,1696.4,4.488582005606295
+OP,I,pcb3038,Rollback-and-switch only,20,1699.0,1685.65,6.450418183098062
+OP,I,pcb3038,Route improvement only,20,1701.0,1686.15,5.769931131578426
+OP,I,pcb3038,Initialization + rollback-and-switch,20,1712.0,1696.85,6.401274544141478
+OP,I,pcb3038,Initialization + route improvement,20,1708.0,1698.45,4.071402189599264
+OP,I,pcb3038,Rollback-and-switch + route improvement,20,1699.0,1684.95,7.549660152685856
+OP,I,pcb3038,Full SW-HGA,20,1707.0,1700.8,3.778052965553331
+OP,II,fl3795,Initialization only,20,115762.0,115169.1,204.7498859327489
+OP,II,fl3795,Rollback-and-switch only,20,115242.0,110939.2,1039.105060287837
+OP,II,fl3795,Route improvement only,20,110942.0,110448.05,264.9777498106904
+OP,II,fl3795,Initialization + rollback-and-switch,20,115455.0,115171.15,241.86213450075883
+OP,II,fl3795,Initialization + route improvement,20,116056.0,115243.1,399.51047677455415
+OP,II,fl3795,Rollback-and-switch + route improvement,20,111127.0,110555.9,368.4185120213152
+OP,II,fl3795,Full SW-HGA,20,115590.0,115293.25,113.20818038138039
+OP,II,pr299,Initialization only,20,9182.0,9149.85,20.861132330371312
+OP,II,pr299,Rollback-and-switch only,20,9182.0,9179.1,9.29572623928811
+OP,II,pr299,Route improvement only,20,9182.0,9182.0,0.0
+OP,II,pr299,Initialization + rollback-and-switch,20,9182.0,9151.8,29.30169745397373
+OP,II,pr299,Initialization + route improvement,20,9182.0,9163.45,11.51874901833391
+OP,II,pr299,Rollback-and-switch + route improvement,20,9182.0,9182.0,0.0
+OP,II,pr299,Full SW-HGA,20,9182.0,9158.55,9.304639476598418
+OP,II,pr76,Initialization only,20,2708.0,2708.0,0.0
+OP,II,pr76,Rollback-and-switch only,20,2708.0,2708.0,0.0
+OP,II,pr76,Route improvement only,20,2708.0,2708.0,0.0
+OP,II,pr76,Initialization + rollback-and-switch,20,2708.0,2708.0,0.0
+OP,II,pr76,Initialization + route improvement,20,2708.0,2708.0,0.0
+OP,II,pr76,Rollback-and-switch + route improvement,20,2708.0,2708.0,0.0
+OP,II,pr76,Full SW-HGA,20,2708.0,2708.0,0.0
+OP,II,u1432,Initialization only,20,46566.0,46257.5,134.56851121464604
+OP,II,u1432,Rollback-and-switch only,20,46602.0,46326.1,110.03726641461064
+OP,II,u1432,Route improvement only,20,46636.0,46401.4,117.41128789991102
+OP,II,u1432,Initialization + rollback-and-switch,20,46681.0,46281.05,187.7516486717157
+OP,II,u1432,Initialization + route improvement,20,46634.0,46363.5,120.02653215457252
+OP,II,u1432,Rollback-and-switch + route improvement,20,46732.0,46409.5,135.32708913085946
+OP,II,u1432,Full SW-HGA,20,46594.0,46366.4,142.9620486997198
+OP,III,fnl4461,Initialization only,20,149335.0,148615.7,332.37108304138803
+OP,III,fnl4461,Rollback-and-switch only,20,148446.0,147038.6,781.6780465262234
+OP,III,fnl4461,Route improvement only,20,148459.0,147247.15,577.3301778103465
+OP,III,fnl4461,Initialization + rollback-and-switch,20,149323.0,148645.15,412.9577874438576
+OP,III,fnl4461,Initialization + route improvement,20,149133.0,148824.55,205.28221267831574
+OP,III,fnl4461,Rollback-and-switch + route improvement,20,148035.0,147280.1,538.0256205991055
+OP,III,fnl4461,Full SW-HGA,20,149264.0,148830.7,210.9098335657606
+OP,III,kroA100,Initialization only,20,3211.0,3211.0,0.0
+OP,III,kroA100,Rollback-and-switch only,20,3211.0,3157.8,12.521980673998822
+OP,III,kroA100,Route improvement only,20,3155.0,3155.0,0.0
+OP,III,kroA100,Initialization + rollback-and-switch,20,3211.0,3211.0,0.0
+OP,III,kroA100,Initialization + route improvement,20,3211.0,3211.0,0.0
+OP,III,kroA100,Rollback-and-switch + route improvement,20,3155.0,3155.0,0.0
+OP,III,kroA100,Full SW-HGA,20,3211.0,3211.0,0.0
+OP,III,rat575,Initialization only,20,20107.0,20085.55,14.659198656923847
+OP,III,rat575,Rollback-and-switch only,20,20100.0,20073.55,20.843969214897122
+OP,III,rat575,Route improvement only,20,20094.0,20078.2,19.800584786685892
+OP,III,rat575,Initialization + rollback-and-switch,20,20107.0,20080.0,22.745734128680734
+OP,III,rat575,Initialization + route improvement,20,20109.0,20095.3,9.9477582769608
+OP,III,rat575,Rollback-and-switch + route improvement,20,20107.0,20085.85,18.445581413558383
+OP,III,rat575,Full SW-HGA,20,20109.0,20100.25,7.383302641415754
+OP,III,rl1889,Initialization only,20,70602.0,70477.65,118.25453145874079
+OP,III,rl1889,Rollback-and-switch only,20,70700.0,70525.1,83.87076524724151
+OP,III,rl1889,Route improvement only,20,70686.0,70530.55,71.02592188030627
+OP,III,rl1889,Initialization + rollback-and-switch,20,70575.0,70444.2,119.81986479711951
+OP,III,rl1889,Initialization + route improvement,20,70657.0,70532.05,96.64393410866509
+OP,III,rl1889,Rollback-and-switch + route improvement,20,70633.0,70524.25,69.66527111839873
+OP,III,rl1889,Full SW-HGA,20,70693.0,70551.3,75.28129704123413
+OP,IV,d657,Initialization only,20,32546.0,32530.7,10.407992879968438
+OP,IV,d657,Rollback-and-switch only,20,32545.0,32532.35,8.021517115989049
+OP,IV,d657,Route improvement only,20,32548.0,32546.2,3.650522673463854
+OP,IV,d657,Initialization + rollback-and-switch,20,32548.0,32527.45,15.866134076274403
+OP,IV,d657,Initialization + route improvement,20,32548.0,32543.95,7.416021063956913
+OP,IV,d657,Rollback-and-switch + route improvement,20,32548.0,32547.4,1.8180382718454353
+OP,IV,d657,Full SW-HGA,20,32548.0,32545.9,3.945683851074688
+OP,IV,fnl4461,Initialization only,20,93168.0,92550.1,308.37535228149613
+OP,IV,fnl4461,Rollback-and-switch only,20,92429.0,92023.4,277.2030226918056
+OP,IV,fnl4461,Route improvement only,20,93361.0,92466.35,387.35082357769136
+OP,IV,fnl4461,Initialization + rollback-and-switch,20,92919.0,92463.15,259.7610794962414
+OP,IV,fnl4461,Initialization + route improvement,20,93570.0,92899.85,292.5755457997131
+OP,IV,fnl4461,Rollback-and-switch + route improvement,20,93169.0,92287.1,467.4982578070549
+OP,IV,fnl4461,Full SW-HGA,20,93749.0,92764.65,447.6583842031426
+OP,IV,rd100,Initialization only,20,3815.0,3815.0,0.0
+OP,IV,rd100,Rollback-and-switch only,20,3815.0,3815.0,0.0
+OP,IV,rd100,Route improvement only,20,3815.0,3815.0,0.0
+OP,IV,rd100,Initialization + rollback-and-switch,20,3815.0,3815.0,0.0
+OP,IV,rd100,Initialization + route improvement,20,3815.0,3815.0,0.0
+OP,IV,rd100,Rollback-and-switch + route improvement,20,3815.0,3815.0,0.0
+OP,IV,rd100,Full SW-HGA,20,3815.0,3815.0,0.0
+OP,IV,u2152,Initialization only,20,57722.0,56516.35,448.81754293042655
+OP,IV,u2152,Rollback-and-switch only,20,57913.0,57652.5,236.89782385528244
+OP,IV,u2152,Route improvement only,20,58110.0,57715.25,235.02874964117632
+OP,IV,u2152,Initialization + rollback-and-switch,20,57168.0,56678.8,307.9481501127986
+OP,IV,u2152,Initialization + route improvement,20,57465.0,56825.2,378.18090908981645
+OP,IV,u2152,Rollback-and-switch + route improvement,20,58080.0,57724.1,238.9055968589399
+OP,IV,u2152,Full SW-HGA,20,57585.0,56790.55,353.56492368892856
+PCTSP,1,a280,Initialization only,20,1231.0,1231.55,2.4596747752497685
+PCTSP,1,a280,Rollback-and-switch only,20,1252.0,1258.75,4.265837364580679
+PCTSP,1,a280,Route improvement only,20,1252.0,1258.0,2.3395906074624073
+PCTSP,1,a280,Initialization + rollback-and-switch,20,1231.0,1233.95,6.74712414370199
+PCTSP,1,a280,Initialization + route improvement,20,1231.0,1231.7,2.515216847405743
+PCTSP,1,a280,Rollback-and-switch + route improvement,20,1254.0,1260.05,2.8741131355236305
+PCTSP,1,a280,Full SW-HGA,20,1231.0,1232.65,4.029823033857756
+PCTSP,1,fl1400,Initialization only,20,7637.0,7768.85,84.14415888036561
+PCTSP,1,fl1400,Rollback-and-switch only,20,7940.0,8303.3,123.76935255376812
+PCTSP,1,fl1400,Route improvement only,20,7935.0,8323.05,91.39415793836693
+PCTSP,1,fl1400,Initialization + rollback-and-switch,20,7562.0,7754.45,171.21500026513294
+PCTSP,1,fl1400,Initialization + route improvement,20,7551.0,7714.8,114.92175828064845
+PCTSP,1,fl1400,Rollback-and-switch + route improvement,20,7938.0,8302.1,123.0070173436844
+PCTSP,1,fl1400,Full SW-HGA,20,7551.0,7739.3,113.62732251114883
+PCTSP,1,gr96,Initialization only,20,20688.0,20688.0,0.0
+PCTSP,1,gr96,Rollback-and-switch only,20,20697.0,20697.0,0.0
+PCTSP,1,gr96,Route improvement only,20,20697.0,20697.0,0.0
+PCTSP,1,gr96,Initialization + rollback-and-switch,20,20688.0,20691.15,4.4042443643663365
+PCTSP,1,gr96,Initialization + route improvement,20,20688.0,20688.45,2.0124611797498106
+PCTSP,1,gr96,Rollback-and-switch + route improvement,20,20697.0,20697.0,0.0
+PCTSP,1,gr96,Full SW-HGA,20,20688.0,20689.8,3.6935220675065548
+PCTSP,1,pcb3038,Initialization only,20,61070.0,61349.55,173.8224971812216
+PCTSP,1,pcb3038,Rollback-and-switch only,20,62056.0,62528.0,339.25475600746444
+PCTSP,1,pcb3038,Route improvement only,20,62131.0,62685.4,314.4330570541543
+PCTSP,1,pcb3038,Initialization + rollback-and-switch,20,61116.0,61516.8,343.4833329289792
+PCTSP,1,pcb3038,Initialization + route improvement,20,61190.0,61463.75,167.5651876293616
+PCTSP,1,pcb3038,Rollback-and-switch + route improvement,20,61870.0,62720.35,355.24554517744633
+PCTSP,1,pcb3038,Full SW-HGA,20,61411.0,61654.3,178.88046582182074
+PCTSP,2,pr2392,Initialization only,20,149841.0,152340.4,1561.4177902757076
+PCTSP,2,pr2392,Rollback-and-switch only,20,151739.0,153362.25,763.2749297737039
+PCTSP,2,pr2392,Route improvement only,20,155238.0,157255.2,1098.6093889429874
+PCTSP,2,pr2392,Initialization + rollback-and-switch,20,149893.0,151177.55,1073.0465470357115
+PCTSP,2,pr2392,Initialization + route improvement,20,149358.0,152333.0,1443.4440174731224
+PCTSP,2,pr2392,Rollback-and-switch + route improvement,20,151589.0,153381.7,972.3681401609166
+PCTSP,2,pr2392,Full SW-HGA,20,149136.0,150954.5,751.3421324536513
+PCTSP,2,pr264,Initialization only,20,22659.0,22694.2,10.039920318408907
+PCTSP,2,pr264,Rollback-and-switch only,20,25080.0,25088.8,13.016588606365664
+PCTSP,2,pr264,Route improvement only,20,25080.0,25099.6,13.164545687485564
+PCTSP,2,pr264,Initialization + rollback-and-switch,20,22681.0,23189.65,654.5572448931455
+PCTSP,2,pr264,Initialization + route improvement,20,22560.0,22699.1,561.8459144453641
+PCTSP,2,pr264,Rollback-and-switch + route improvement,20,25080.0,25086.0,11.424811411549587
+PCTSP,2,pr264,Full SW-HGA,20,22560.0,22688.35,82.3735234673196
+PCTSP,2,pr76,Initialization only,20,38330.0,38330.0,0.0
+PCTSP,2,pr76,Rollback-and-switch only,20,38330.0,38330.0,0.0
+PCTSP,2,pr76,Route improvement only,20,38330.0,38330.0,0.0
+PCTSP,2,pr76,Initialization + rollback-and-switch,20,38330.0,38330.0,0.0
+PCTSP,2,pr76,Initialization + route improvement,20,38330.0,38330.0,0.0
+PCTSP,2,pr76,Rollback-and-switch + route improvement,20,38330.0,38330.0,0.0
+PCTSP,2,pr76,Full SW-HGA,20,38330.0,38330.0,0.0
+PCTSP,2,u1432,Initialization only,20,57990.0,58581.15,404.85517553551756
+PCTSP,2,u1432,Rollback-and-switch only,20,57640.0,58082.05,284.65648272592483
+PCTSP,2,u1432,Route improvement only,20,58589.0,59170.55,317.16399128592934
+PCTSP,2,u1432,Initialization + rollback-and-switch,20,57110.0,57640.3,330.42749025435137
+PCTSP,2,u1432,Initialization + route improvement,20,57605.0,58460.95,401.5107621288166
+PCTSP,2,u1432,Rollback-and-switch + route improvement,20,57609.0,58065.5,323.7096652378811
+PCTSP,2,u1432,Full SW-HGA,20,57213.0,57562.8,306.4035179130189
+PCTSP,3,att532,Initialization only,20,10214.0,10245.85,15.5809431509676
+PCTSP,3,att532,Rollback-and-switch only,20,10197.0,10276.05,50.88322544394122
+PCTSP,3,att532,Route improvement only,20,10315.0,10424.1,88.37593146981759
+PCTSP,3,att532,Initialization + rollback-and-switch,20,10194.0,10201.1,17.041435570860497
+PCTSP,3,att532,Initialization + route improvement,20,10211.0,10250.3,19.510051390582188
+PCTSP,3,att532,Rollback-and-switch + route improvement,20,10270.0,10276.4,6.548603708143881
+PCTSP,3,att532,Full SW-HGA,20,10192.0,10195.35,1.6944180805158293
+PCTSP,3,kroA100,Initialization only,20,8325.0,8325.0,0.0
+PCTSP,3,kroA100,Rollback-and-switch only,20,8325.0,8325.0,0.0
+PCTSP,3,kroA100,Route improvement only,20,8325.0,8325.0,0.0
+PCTSP,3,kroA100,Initialization + rollback-and-switch,20,8325.0,8325.0,0.0
+PCTSP,3,kroA100,Initialization + route improvement,20,8325.0,8325.0,0.0
+PCTSP,3,kroA100,Rollback-and-switch + route improvement,20,8325.0,8325.0,0.0
+PCTSP,3,kroA100,Full SW-HGA,20,8325.0,8325.0,0.0
+PCTSP,3,pr1002,Initialization only,20,91842.0,92365.6,285.0751332174509
+PCTSP,3,pr1002,Rollback-and-switch only,20,91888.0,92909.5,534.733332458437
+PCTSP,3,pr1002,Route improvement only,20,92936.0,93793.9,605.5102154816478
+PCTSP,3,pr1002,Initialization + rollback-and-switch,20,91780.0,92184.05,380.2981482717834
+PCTSP,3,pr1002,Initialization + route improvement,20,91833.0,92325.0,227.80485647057426
+PCTSP,3,pr1002,Rollback-and-switch + route improvement,20,92677.0,93028.1,377.61633271992105
+PCTSP,3,pr1002,Full SW-HGA,20,91746.0,92011.65,181.6744558124142
+PCTSP,3,pr2392,Initialization only,20,136834.0,138215.5,922.3118264790699
+PCTSP,3,pr2392,Rollback-and-switch only,20,143927.0,146504.25,1842.0353981112135
+PCTSP,3,pr2392,Route improvement only,20,151634.0,152899.8,889.7406836885264
+PCTSP,3,pr2392,Initialization + rollback-and-switch,20,136199.0,137634.1,1895.1446521655225
+PCTSP,3,pr2392,Initialization + route improvement,20,136751.0,137782.65,776.3496414563954
+PCTSP,3,pr2392,Rollback-and-switch + route improvement,20,143388.0,146197.65,1493.5237130956266
+PCTSP,3,pr2392,Full SW-HGA,20,136227.0,137036.8,713.0678420518072

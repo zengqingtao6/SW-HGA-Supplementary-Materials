@@ -1,0 +1,5 @@
+problem,metric,instances,comparison,better,tie,worse,median_gap_percent,q1_gap_percent,q3_gap_percent,raw_p,effect_r,effective_n,adjusted_p
+OP,best,16,mixed_rollback_profit vs random_rollback_profit,5,5,6,0.0,-0.36585551838225394,0.022211790297248866,0.5771484375,0.18765339874259634,11,1.0
+OP,mean,16,mixed_rollback_profit vs random_rollback_profit,6,4,6,0.0,-0.43726489103083716,0.055515172853960355,0.90966796875,0.04529108136578384,12,1.0
+PCTSP,best,12,mixed_rollback_profit vs random_rollback_profit,6,4,2,0.12466001813236627,0.0,2.2592133306738926,0.3828125,0.346551640041836,8,0.765625
+PCTSP,mean,12,mixed_rollback_profit vs random_rollback_profit,6,2,4,0.006864562188028381,-0.023534242265851067,2.6850016711179516,0.431640625,0.2739798077686293,10,0.765625

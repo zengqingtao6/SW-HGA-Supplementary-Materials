@@ -1,0 +1,11 @@
+Starting searching
+InitMode=0 AddMode=2 ExperimentMode=1 RunId=6 Variant=mixed_initial
+${EXPERIMENT_ROOT}\OPcode pro\instances\gen3\fnl4461-gen3-50.oplib
+---- Start the search----
+The best fit is    126996
+----The initial solution is finished, time spends: 97.117
+----------Write Solution With Value  126996 In: ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\solutions\OP\OP_gen3_fnl4461_seed6_mixed_initial.txt
+----Initialization-only experiment finished----
+COMMAND:
+${EXPERIMENT_ROOT}\OPcode pro\geaxOP.exe ${EXPERIMENT_ROOT}\OPcode pro\instances\gen3\fnl4461-gen3-50.oplib ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\solutions\OP\OP_gen3_fnl4461_seed6_mixed_initial.txt 15517 500000 6 0 2 1 ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\raw_csv\OP_gen3_fnl4461_seed6_mixed_initial.csv 6 mixed_initial
+

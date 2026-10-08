@@ -1,0 +1,12 @@
+Starting searching
+InitMode=0 AddMode=2 ExperimentMode=1 RunId=9 Variant=mixed_initial
+${EXPERIMENT_ROOT}\PCTSPcode pro\instances\set_1\pcb3038-set1-50.txt
+---- Start the search----
+The best initial fit is-------72447
+----The initial solution is finished, time spends:---106.293
+----------Write Solution With Value  1518 In: ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\solutions\PCTSP\PCTSP_set_1_pcb3038_seed9_mixed_initial.txt
+The best fit is----72447
+----Initialization-only experiment finished----
+COMMAND:
+${EXPERIMENT_ROOT}\PCTSPcode pro\geaxPCTSP.exe ${EXPERIMENT_ROOT}\PCTSPcode pro\instances\set_1\pcb3038-set1-50.txt ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\solutions\PCTSP\PCTSP_set_1_pcb3038_seed9_mixed_initial.txt 15517 500000 9 0 2 1 ${EXPERIMENT_ROOT}\experiments_final\c1_initial\mixed_initial\raw_csv\PCTSP_set_1_pcb3038_seed9_mixed_initial.csv 9 mixed_initial
+

@@ -1,0 +1,2 @@
+instance,seed,problem,total_calls,rollback_triggers,trigger_rate,phase2_continuations,continue_rate,changed_first_customer,changed_customer_rate,improved,tied,worsened,improvement_rate,mean_phase2_insertions,mean_jaccard
+pr299,4,OP,550717,399080,0.724655,399080,1,61491,0.154082,61355,337725,0,0.153741,1.00159,0.00208531

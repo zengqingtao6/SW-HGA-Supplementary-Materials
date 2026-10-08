@@ -1,0 +1,68 @@
+The distance 
+10331
+The time comsuming is 
+0.056
+The time meet the LB is 
+1e+08
+The time meet the best is 
+0.021
+Does reach the optimal soltuion 
+0
+
+
+
+NAME : kroA100
+TYPE : PCTSP
+DIMENSION : 100
+Prize_COLLECTING : 2519
+ROUTE_NODES : 44
+ROUTE_SCORE : 2520
+TRAVELING_COST : 10331
+NODE_SEQUENCE_SECTION
+1
+63
+6
+49
+72
+21
+74
+11
+91
+98
+23
+60
+62
+86
+27
+12
+7
+9
+55
+83
+34
+46
+3
+48
+52
+78
+96
+5
+37
+33
+76
+13
+95
+82
+2
+54
+40
+64
+44
+50
+73
+81
+61
+58
+28
+1
+EOF
