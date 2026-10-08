@@ -24,4 +24,8 @@ Begin with `Experimental_Results/README.md` for a detailed map between the repos
 
 ## Citation
 
-A permanent Zenodo DOI will be added after the corrected public release is archived. Until then, cite the associated manuscript and this repository URL.
+The experimental results are permanently archived on Zenodo:
+
+<https://doi.org/10.5281/zenodo.23242052>
+
+Please cite the Zenodo dataset and the associated manuscript when using these materials.

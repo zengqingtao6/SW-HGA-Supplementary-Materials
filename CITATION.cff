@@ -4,6 +4,9 @@ title: "Experimental results for SW-HGA: A Hybrid Genetic Algorithm for Travelin
 type: dataset
 version: 1.0.0
 date-released: 2026-10-08
+doi: "10.5281/zenodo.23242052"
+url: "https://doi.org/10.5281/zenodo.23242052"
+repository-code: "https://github.com/zengqingtao6/SW-HGA-Supplementary-Materials"
 authors:
   - family-names: Zeng
     given-names: Qingtao
